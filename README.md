@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, I'm samuely</h1>
-<h3 align="center">a passionate developer and lifelong learner from Brazil</h3>
+<h3 align="center">a lifelong learner from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
